@@ -1,5 +1,5 @@
-Hi, I’m @mochipog
-I’m interested in codinng
+Hi, I’m @mochipog ,
+I’m interested in codinng and 
 I’m currently learning python
 
 <!---
